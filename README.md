@@ -10,7 +10,7 @@ To separate the two classes of data points, there are many possible hyperplanes 
 ![Screenshot (175)](https://user-images.githubusercontent.com/72094895/125044064-394f4500-e0b9-11eb-9010-450aa35c355e.png)
 - If the decision is too hard we will convert it into another dimensions and solve the problems
 
-
+![Screenshot (177)](https://user-images.githubusercontent.com/72094895/125044873-06598100-e0ba-11eb-87b9-5dcf612d9de5.png)
 
 ### PROS
 - It works really well with a clear margin of separation
